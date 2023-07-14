@@ -1,0 +1,25 @@
+.env
+
+package-lock.json
+
+node_modules
+
+# admin folder not included as not worked on during this project (was a github clone)
+admin/
+
+# Only including files which were actively worked on during the project and those linking to the API server, or those linked to the files worked on
+
+client/youtube2022/public
+
+client/youtube2022/src/components/featured
+client/youtube2022/src/components/featuredProperties
+client/youtube2022/src/components/footer
+client/youtube2022/src/components/header
+client/youtube2022/src/components/mailList
+client/youtube2022/src/components/navbar
+client/youtube2022/src/components/propertyList
+client/youtube2022/src/components/searchItem
+
+client/youtube2022/src/pages/home
+client/youtube2022/src/pages/list
+
